@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/overflowMenu"
+        android:icon="@drawable/ic_3_dots"
+        android:iconTint="@color/white"
+        android:title=""
+        app:showAsAction="always"
+        tools:ignore="UnusedAttribute">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_logout_black_24dp"
+                android:title="@string/log_out" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "740523403905",
+    "project_id": "haker-weather",
+    "storage_bucket": "haker-weather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740523403905:android:6f050bd539194bb11abb80",
+        "android_client_info": {
+          "package_name": "com.haker.hakerweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740523403905-0n7teq95pk770oepoqo3s87pfpdmeb9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haker.hakerweather",
+            "certificate_hash": "519b1f2aa889fff4dc03196d42643633d2246622"
+          }
+        },
+        {
+          "client_id": "740523403905-s969rvqs6fk1q69lpua7uak1p86al66b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFigtnCYpXOVhkAq_rhMgh88w4sI906yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740523403905-s969rvqs6fk1q69lpua7uak1p86al66b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

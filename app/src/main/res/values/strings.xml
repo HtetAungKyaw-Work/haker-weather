@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Haker Weather</string>
+    <string name="title_home">Home</string>
+    <string name="title_astronomy">Astronomy</string>
+    <string name="title_sports">Sports</string>
+    <string name="web_client_id" translatable="false">740523403905-s969rvqs6fk1q69lpua7uak1p86al66b.apps.googleusercontent.com</string>
+    <string name="time_difference_for_sunrise_and_moonrise">Time difference for \nsunrise and moonrise :</string>
+    <string name="time_difference_for_sunset_and_moonset">Time difference for \nsunset and moonset :</string>
+    <string name="log_out">Log Out</string>
+</resources>
